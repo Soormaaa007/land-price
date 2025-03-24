@@ -1,7 +1,3 @@
-# Here’s a **GitHub-friendly README.md** file for your **House Price Prediction** project. This includes structured sections, markdown formatting, and badges.  
-
----
-
 # 🏡 House Price Prediction  
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-blue.svg)  
